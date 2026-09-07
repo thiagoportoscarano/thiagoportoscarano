@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= BANNER / BOOT SEQUENCE ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=THIAGO.PORTO.SCARANO&fontSize=70&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=55&descSize=18&descColor=8AFFFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=THIAGO.SYS&fontSize=70&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=55&descSize=18&descColor=8AFFFA" width="100%"/>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <a href="https://git.io/typing-svg">
@@ -88,31 +88,19 @@ thiago:
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/thiagoportoscarano/Happy-Hour">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoportoscarano&repo=Happy-Hour&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
+      <a href="https://github.com/thiagoportoscarano/REPOSITORIO_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoportoscarano&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/thiagoportoscarano/APILoginAndEmailConfirmation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoportoscarano&repo=APILoginAndEmailConfirmation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/SEU_USUARIO/REPOSITORIO_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/SEU_USUARIO/REPOSITORIO_4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
+      <a href="https://github.com/thiagoportoscarano/REPOSITORIO_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoportoscarano&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
       </a>
     </td>
   </tr>
 </table>
 
-<sub>💡 Troque <code>SEU_USUARIO</code> e <code>REPOSITORIO_X</code> pelos seus repositórios reais para os cards carregarem.</sub>
+<sub>💡 Se algum card aparecer com ícone quebrado, confira se o repositório é <b>público</b> e se o nome está exatamente igual ao do GitHub (maiúsculas/minúsculas importam).</sub>
 
 </div>
 
@@ -143,16 +131,16 @@ thiago@dev-machine:~$ _
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=8a2be2&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thiagoportoscarano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=8a2be2&text_color=c9d1d9&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoportoscarano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=8A2BE2&fire=00F0FF&currStreakLabel=00F0FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoportoscarano&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=8A2BE2&fire=00F0FF&currStreakLabel=00F0FF"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=FFFFFF&area=true&area_color=00F0FF"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoportoscarano&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=FFFFFF&area=true&area_color=00F0FF"/>
 
 </div>
 
@@ -162,7 +150,7 @@ thiago@dev-machine:~$ _
 ## `<` GITHUB_TROPHIES `/>`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=thiagoportoscarano&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
 </div>
 
 <br/>
@@ -171,7 +159,7 @@ thiago@dev-machine:~$ _
 ## `<` CONTRIBUTION_MATRIX `/>`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/thiagoportoscarano/thiagoportoscarano/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 <sub align="center">💡 A cobra é gerada por uma GitHub Action (<a href="https://github.com/Platane/snk">Platane/snk</a>) rodando no seu próprio repositório de perfil — veja o passo a passo no rodapé deste README.</sub>
@@ -183,16 +171,16 @@ thiago@dev-machine:~$ _
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/thiagoportoscarano" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/SEU_USUARIO" target="_blank">
+<a href="https://github.com/thiagoportoscarano" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:seuemail@exemplo.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/SEU_USUARIO" target="_blank">
+<a href="https://instagram.com/thiagoportoscarano" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://discord.com/users/SEU_ID" target="_blank">
