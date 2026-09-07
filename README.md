@@ -114,7 +114,7 @@ thiago@dev-machine:~$ cat objetivos_2026.txt
 
 [■■■■■■■■■■□□□□□□□□□□] 50%  -> Aprender Golang na prática
 [■■■■■■■■■■■■■■■□□□□□] 75%  -> Aprofundar em Power BI (DAX, modelagem de dados)
-[■■■■■■■■■■■■□□□□□□□□] 60%  -> Fortalecer arquitetura backend (Java/C#)
+[■■■■■■■■■■■■□□□□□□□□] 60%  -> Fortalecer arquitetura backend (Java/C#/GO)
 [■■■■■■■□□□□□□□□□□□□□] 35%  -> Estudar PostgreSQL e otimização de queries
 [■■■■■■■■■■■■■■■■■□□□] 85%  -> Contribuir ativamente na Alpha Júnior
 
