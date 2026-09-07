@@ -162,8 +162,6 @@ thiago@dev-machine:~$ _
   <img src="https://raw.githubusercontent.com/thiagoportoscarano/thiagoportoscarano/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-<sub align="center">💡 A cobra é gerada por uma GitHub Action (<a href="https://github.com/Platane/snk">Platane/snk</a>) rodando no seu próprio repositório de perfil — veja o passo a passo no rodapé deste README.</sub>
-
 <br/><br/>
 
 <!-- ================= REDES SOCIAIS ================= -->
