@@ -99,9 +99,6 @@ thiago:
     </td>
   </tr>
 </table>
-
-<sub>💡 Se algum card aparecer com ícone quebrado, confira se o repositório é <b>público</b> e se o nome está exatamente igual ao do GitHub (maiúsculas/minúsculas importam).</sub>
-
 </div>
 
 <br/>
