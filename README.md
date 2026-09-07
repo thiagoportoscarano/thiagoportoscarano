@@ -88,13 +88,13 @@ thiago:
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/thiagoportoscarano/REPOSITORIO_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoportoscarano&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
+      <a href="https://github.com/thiagoportoscarano/Happy-Hour">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoportoscarano&repo=Happy-Hour&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/thiagoportoscarano/REPOSITORIO_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoportoscarano&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
+      <a href="https://github.com/thiagoportoscarano/APILoginAndEmailConfirmation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoportoscarano&repo=APILoginAndEmailConfirmation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=8a2be2" />
       </a>
     </td>
   </tr>
