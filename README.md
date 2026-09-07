@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00f0ff&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=thiagoportoscarano&color=00f0ff&style=flat-square&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117)
 ![Focus](https://img.shields.io/badge/FOCUS-BACKEND%20%26%20DATA-8A2BE2?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117)
 
