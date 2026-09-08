@@ -24,14 +24,17 @@
 <img align="right" width="260" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/Hi.gif" alt="wave"/>
 
 ```yaml
-thiago:
-  role: "Backend Developer & Data Analyst"
-  education: "Sistemas de Informação @ UNIRIO"
-  organization: "Alpha Júnior — Empresa Júnior de TI da UNIRIO"
-  current_mission: "Estágio em Power BI — análise de dados & insights"
-  languages: ["Java", "Python", "C#", "Golang (learning)"]
-  mindset: "construir soluções sólidas, orientadas a dados"
-  fun_fact: "sempre há um deploy a menos de dar certo"
+{
+  "thiago": {
+    "role": "Backend Developer & Data Analyst",
+    "education": "Sistemas de Informação @ UNIRIO",
+    "organization": "Alpha Júnior — Empresa Júnior de TI da UNIRIO",
+    "current_mission": "Estágio em Power BI — análise de dados & insights",
+    "languages": ["Java", "Python", "C#", "Golang (learning)"],
+    "mindset": "construir soluções sólidas, orientadas a dados",
+    "fun_fact": "Comecei a me interessar por computação com 7 anos, quando assisti a Matrix pela primeira vez."
+  }
+}
 ```
 
 - 🧠 Foco atual em **Backend** e **Análise de Dados**
